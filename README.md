@@ -5,7 +5,7 @@ Stock price prediction
 
 1.useing data from real market
 
-2.practice LSTM
+2.LSTM
 
 3.visualizations
 
